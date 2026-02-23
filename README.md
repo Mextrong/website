@@ -11,5 +11,5 @@ CSS
 JavaScript
 PHP
 MySQL
-##canlı link,
+## canlı link
 https://mextrong.github.io/website/
